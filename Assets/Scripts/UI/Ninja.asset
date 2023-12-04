@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a2aa295d4c1cb44abcef1f7d85a0925, type: 3}
+  m_Name: Ninja
+  m_EditorClassIdentifier: 
+  name: Ninja
+  description: He appears and disappears so quickly that the victim doesn't feel
+    any pain
+  artwork: {fileID: 21300000, guid: cf4f1deb93128384099d9ad94220a0f3, type: 3}
+  cost: 200 gold
+  manaCost: 0
+  attack: 0
+  health: 0
+  damage: 0
